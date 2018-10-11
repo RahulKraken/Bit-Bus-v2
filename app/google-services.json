@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "17996082241",
+    "firebase_url": "https://bit-bus-v2.firebaseio.com",
+    "project_id": "bit-bus-v2",
+    "storage_bucket": "bit-bus-v2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17996082241:android:5456fc71da259f74",
+        "android_client_info": {
+          "package_name": "com.example.kraken.bit_bus_v2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17996082241-rc2to1nnfaeaai1cakfb7nlk2rqpo22l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kraken.bit_bus_v2",
+            "certificate_hash": "19a2a806827dd0ad7b23af9704f9e60313ad4999"
+          }
+        },
+        {
+          "client_id": "17996082241-05kb45lmkiot894l6qag508fr6aodqsn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd4mEnFQy9Vzgls_r4IyyDrJGVujcA1Dc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17996082241-05kb45lmkiot894l6qag508fr6aodqsn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
